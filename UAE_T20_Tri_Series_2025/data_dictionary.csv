@@ -1,0 +1,12 @@
+"Column_Name,Description,Data_Type,Example"
+"Match_Number,Match identifier in the series,String,1st Match"
+"Series,Name of the tournament,String,United Arab Emirates T20I Tri-Series 2025"
+"Date,Match date (YYYY-MM-DD),Date,2025-08-29"
+"Team1,First team in the match,String,Pakistan"
+"Team2,Second team in the match,String,Afghanistan"
+"Team1_Score,Team1's score with wickets and overs,String,1827 (20)"
+"Team1_Total_Runs,Total runs scored by Team1,Integer,182"
+"Team1_Fours,Number of 4s hit by Team1,Integer,11"
+"Team1_Sixes,Number of 6s hit by Team1,Integer,9"
+"Team1_Top_Scorer,Top run-scorer for Team1,String,Salman Agha (53)"
+... (continue for all columns)
